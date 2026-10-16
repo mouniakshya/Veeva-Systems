@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/mouniakshya/Veeva-Systems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mouniakshya/Veeva-Systems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1903-largest-odd-number-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/mouniakshya/Veeva-Systems/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Sliding Window
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->

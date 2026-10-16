@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mouniakshya/Veeva-Systems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mouniakshya/Veeva-Systems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mouniakshya/Veeva-Systems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2104-sum-of-subarray-ranges](https://github.com/mouniakshya/Veeva-Systems/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mouniakshya/Veeva-Systems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mouniakshya/Veeva-Systems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/mouniakshya/Veeva-Systems/tree/master/2239-find-closest-number-to-zero) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/mouniakshya/Veeva-Systems/tree/master/2000-reverse-prefix-of-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/mouniakshya/Veeva-Systems/tree/master/2104-sum-of-subarray-ranges) |
 | [3174-clear-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
@@ -523,4 +525,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/mouniakshya/Veeva-Systems/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->

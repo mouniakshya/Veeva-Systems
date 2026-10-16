@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mouniakshya/Veeva-Systems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mouniakshya/Veeva-Systems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mouniakshya/Veeva-Systems/tree/master/0485-max-consecutive-ones) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/mouniakshya/Veeva-Systems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mouniakshya/Veeva-Systems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0628-maximum-product-of-three-numbers) |

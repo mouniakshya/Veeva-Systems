@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mouniakshya/Veeva-Systems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/mouniakshya/Veeva-Systems/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mouniakshya/Veeva-Systems/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mouniakshya/Veeva-Systems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/mouniakshya/Veeva-Systems/tree/master/0392-is-subsequence) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mouniakshya/Veeva-Systems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/2974-minimum-number-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

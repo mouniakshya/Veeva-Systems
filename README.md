@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mouniakshya/Veeva-Systems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mouniakshya/Veeva-Systems/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2000-reverse-prefix-of-word](https://github.com/mouniakshya/Veeva-Systems/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mouniakshya/Veeva-Systems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2325-decode-the-message](https://github.com/mouniakshya/Veeva-Systems/tree/master/2325-decode-the-message) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
 | [0917-reverse-only-letters](https://github.com/mouniakshya/Veeva-Systems/tree/master/0917-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/mouniakshya/Veeva-Systems/tree/master/1089-duplicate-zeros) |
+| [2000-reverse-prefix-of-word](https://github.com/mouniakshya/Veeva-Systems/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mouniakshya/Veeva-Systems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/mouniakshya/Veeva-Systems/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Dynamic Programming
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/mouniakshya/Veeva-Systems/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |

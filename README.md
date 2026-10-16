@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/mouniakshya/Veeva-Systems/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3110-score-of-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/3110-score-of-a-string) |
+| [3136-valid-word](https://github.com/mouniakshya/Veeva-Systems/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |

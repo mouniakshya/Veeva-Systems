@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mouniakshya/Veeva-Systems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mouniakshya/Veeva-Systems/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/mouniakshya/Veeva-Systems/tree/master/0771-jewels-and-stones) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mouniakshya/Veeva-Systems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mouniakshya/Veeva-Systems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/mouniakshya/Veeva-Systems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mouniakshya/Veeva-Systems/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1021-remove-outermost-parentheses) |
@@ -510,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mouniakshya/Veeva-Systems/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mouniakshya/Veeva-Systems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mouniakshya/Veeva-Systems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/mouniakshya/Veeva-Systems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mouniakshya/Veeva-Systems/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/mouniakshya/Veeva-Systems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mouniakshya/Veeva-Systems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0088-merge-sorted-array) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mouniakshya/Veeva-Systems/tree/master/0860-lemonade-change) |

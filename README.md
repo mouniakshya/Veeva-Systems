@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mouniakshya/Veeva-Systems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0682-baseball-game) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/mouniakshya/Veeva-Systems/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mouniakshya/Veeva-Systems/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/1539-kth-missing-positive-number) |
 ## Sorting

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mouniakshya/Veeva-Systems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/mouniakshya/Veeva-Systems/tree/master/0073-set-matrix-zeroes) |
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/mouniakshya/Veeva-Systems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mouniakshya/Veeva-Systems/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0162-find-peak-element) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mouniakshya/Veeva-Systems/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/mouniakshya/Veeva-Systems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

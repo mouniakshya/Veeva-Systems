@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/mouniakshya/Veeva-Systems/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mouniakshya/Veeva-Systems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mouniakshya/Veeva-Systems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -193,10 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |

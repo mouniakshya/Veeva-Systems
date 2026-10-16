@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1903-largest-odd-number-in-string) |
+| [2119-a-number-after-a-double-reversal](https://github.com/mouniakshya/Veeva-Systems/tree/master/2119-a-number-after-a-double-reversal) |
 ## Simulation
 |  |
 | ------- |

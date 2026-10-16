@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
 | [0771-jewels-and-stones](https://github.com/mouniakshya/Veeva-Systems/tree/master/0771-jewels-and-stones) |
+| [0930-binary-subarrays-with-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0930-binary-subarrays-with-sum) |
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mouniakshya/Veeva-Systems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/mouniakshya/Veeva-Systems/tree/master/2325-decode-the-message) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mouniakshya/Veeva-Systems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0930-binary-subarrays-with-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0930-binary-subarrays-with-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mouniakshya/Veeva-Systems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mouniakshya/Veeva-Systems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
 | [0704-binary-search](https://github.com/mouniakshya/Veeva-Systems/tree/master/0704-binary-search) |
+| [0930-binary-subarrays-with-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0930-binary-subarrays-with-sum) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mouniakshya/Veeva-Systems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mouniakshya/Veeva-Systems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0930-binary-subarrays-with-sum) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

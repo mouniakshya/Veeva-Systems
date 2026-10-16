@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/mouniakshya/Veeva-Systems/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3110-score-of-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mouniakshya/Veeva-Systems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mouniakshya/Veeva-Systems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3174-clear-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |

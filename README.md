@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/mouniakshya/Veeva-Systems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/mouniakshya/Veeva-Systems/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3099-harshad-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/3099-harshad-number) |
 ## Simulation
 |  |
 | ------- |

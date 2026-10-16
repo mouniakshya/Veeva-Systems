@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mouniakshya/Veeva-Systems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
+| [0771-jewels-and-stones](https://github.com/mouniakshya/Veeva-Systems/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mouniakshya/Veeva-Systems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mouniakshya/Veeva-Systems/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/mouniakshya/Veeva-Systems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/mouniakshya/Veeva-Systems/tree/master/1108-defanging-an-ip-address) |

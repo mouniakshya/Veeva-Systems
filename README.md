@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mouniakshya/Veeva-Systems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0263-ugly-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/mouniakshya/Veeva-Systems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/mouniakshya/Veeva-Systems/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mouniakshya/Veeva-Systems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/mouniakshya/Veeva-Systems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0268-missing-number) |

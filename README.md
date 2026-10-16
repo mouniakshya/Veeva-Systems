@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mouniakshya/Veeva-Systems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/mouniakshya/Veeva-Systems/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mouniakshya/Veeva-Systems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mouniakshya/Veeva-Systems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mouniakshya/Veeva-Systems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/mouniakshya/Veeva-Systems/tree/master/2239-find-closest-number-to-zero) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mouniakshya/Veeva-Systems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/2974-minimum-number-game) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mouniakshya/Veeva-Systems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |

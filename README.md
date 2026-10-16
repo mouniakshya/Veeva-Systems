@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2325-decode-the-message](https://github.com/mouniakshya/Veeva-Systems/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/mouniakshya/Veeva-Systems/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3110-score-of-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/3174-clear-digits) |

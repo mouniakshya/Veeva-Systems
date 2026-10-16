@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mouniakshya/Veeva-Systems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mouniakshya/Veeva-Systems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mouniakshya/Veeva-Systems/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mouniakshya/Veeva-Systems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mouniakshya/Veeva-Systems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/mouniakshya/Veeva-Systems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
 | [0704-binary-search](https://github.com/mouniakshya/Veeva-Systems/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mouniakshya/Veeva-Systems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mouniakshya/Veeva-Systems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/mouniakshya/Veeva-Systems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mouniakshya/Veeva-Systems/tree/master/0242-valid-anagram) |
 ## Bucket Sort
 |  |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -187,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

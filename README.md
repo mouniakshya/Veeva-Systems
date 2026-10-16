@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/mouniakshya/Veeva-Systems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0268-missing-number) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mouniakshya/Veeva-Systems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mouniakshya/Veeva-Systems/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mouniakshya/Veeva-Systems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |

@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/mouniakshya/Veeva-Systems/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/mouniakshya/Veeva-Systems/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0930-binary-subarrays-with-sum) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mouniakshya/Veeva-Systems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mouniakshya/Veeva-Systems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/mouniakshya/Veeva-Systems/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mouniakshya/Veeva-Systems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mouniakshya/Veeva-Systems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |

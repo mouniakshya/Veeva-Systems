@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/mouniakshya/Veeva-Systems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/1137-n-th-tribonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |

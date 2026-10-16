@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/mouniakshya/Veeva-Systems/tree/master/1668-maximum-repeating-substring) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Manacher
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->

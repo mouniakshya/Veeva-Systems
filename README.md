@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mouniakshya/Veeva-Systems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/mouniakshya/Veeva-Systems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mouniakshya/Veeva-Systems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mouniakshya/Veeva-Systems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/mouniakshya/Veeva-Systems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mouniakshya/Veeva-Systems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/mouniakshya/Veeva-Systems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/mouniakshya/Veeva-Systems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mouniakshya/Veeva-Systems/tree/master/0075-sort-colors) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/mouniakshya/Veeva-Systems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |

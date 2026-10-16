@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mouniakshya/Veeva-Systems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/mouniakshya/Veeva-Systems/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/mouniakshya/Veeva-Systems/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mouniakshya/Veeva-Systems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/mouniakshya/Veeva-Systems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/mouniakshya/Veeva-Systems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/mouniakshya/Veeva-Systems/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Simulation
 |  |
 | ------- |

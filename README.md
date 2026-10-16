@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/1025-divisor-game) |
@@ -299,17 +300,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/1025-divisor-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0202-happy-number) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

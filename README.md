@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mouniakshya/Veeva-Systems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mouniakshya/Veeva-Systems/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mouniakshya/Veeva-Systems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mouniakshya/Veeva-Systems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mouniakshya/Veeva-Systems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mouniakshya/Veeva-Systems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mouniakshya/Veeva-Systems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/mouniakshya/Veeva-Systems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mouniakshya/Veeva-Systems/tree/master/0485-max-consecutive-ones) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/mouniakshya/Veeva-Systems/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/mouniakshya/Veeva-Systems/tree/master/0704-binary-search) |
 ## Sorting
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mouniakshya/Veeva-Systems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mouniakshya/Veeva-Systems/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/mouniakshya/Veeva-Systems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |

@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/mouniakshya/Veeva-Systems/tree/master/1169-invalid-transactions) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mouniakshya/Veeva-Systems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mouniakshya/Veeva-Systems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mouniakshya/Veeva-Systems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mouniakshya/Veeva-Systems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1169-invalid-transactions](https://github.com/mouniakshya/Veeva-Systems/tree/master/1169-invalid-transactions) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mouniakshya/Veeva-Systems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mouniakshya/Veeva-Systems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mouniakshya/Veeva-Systems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2974-minimum-number-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/2974-minimum-number-game) |

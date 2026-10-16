@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mouniakshya/Veeva-Systems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/mouniakshya/Veeva-Systems/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/mouniakshya/Veeva-Systems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/mouniakshya/Veeva-Systems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mouniakshya/Veeva-Systems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/mouniakshya/Veeva-Systems/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/mouniakshya/Veeva-Systems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/mouniakshya/Veeva-Systems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mouniakshya/Veeva-Systems/tree/master/1021-remove-outermost-parentheses) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mouniakshya/Veeva-Systems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/mouniakshya/Veeva-Systems/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/mouniakshya/Veeva-Systems/tree/master/0242-valid-anagram) |
 ## Bucket Sort
 |  |
 | ------- |

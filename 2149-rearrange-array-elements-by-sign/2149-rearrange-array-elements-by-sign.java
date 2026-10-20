@@ -1,18 +1,20 @@
 class Solution {
-    public int[] rearrangeArray(int[] nums) {
-        int n=nums.length;
-       ArrayList<Integer>pos=new ArrayList<>();
-       ArrayList<Integer>neg=new ArrayList<>();
-       for(int i=0;i<nums.length;i++){
-        if(nums[i]>=0)
-        pos.add(nums[i]);
-        else
-        neg.add(nums[i]);
+    public int[] rearrangeArray(int[] arr) {
+        int i=0;
+        int j=1;
+        int n=arr.length;
+        int[] res=new int[n];
+       for(int k=0;k<n;k++){
+        if(arr[k]>0)
+        {
+            res[i]=arr[k];
+            i=i+2;
+        }
+        else{
+            res[j]=arr[k];
+            j=j+2;
+        }
        }
-       for(int i=0;i<n/2;i++){
-        nums[2*i]=pos.get(i);
-        nums[2*i+1]=neg.get(i);
-       }
-       return nums;
+       return res;
     }
 }

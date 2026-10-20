@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0930-binary-subarrays-with-sum) |
 | [1169-invalid-transactions](https://github.com/mouniakshya/Veeva-Systems/tree/master/1169-invalid-transactions) |
 | [1331-rank-transform-of-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/mouniakshya/Veeva-Systems/tree/master/1748-sum-of-unique-elements) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/mouniakshya/Veeva-Systems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/mouniakshya/Veeva-Systems/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mouniakshya/Veeva-Systems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mouniakshya/Veeva-Systems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mouniakshya/Veeva-Systems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mouniakshya/Veeva-Systems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1528-shuffle-string) |

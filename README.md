@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mouniakshya/Veeva-Systems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
 | [0917-reverse-only-letters](https://github.com/mouniakshya/Veeva-Systems/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/mouniakshya/Veeva-Systems/tree/master/1089-duplicate-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/mouniakshya/Veeva-Systems/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mouniakshya/Veeva-Systems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/mouniakshya/Veeva-Systems/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/mouniakshya/Veeva-Systems/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/mouniakshya/Veeva-Systems/tree/master/1089-duplicate-zeros) |
 | [1169-invalid-transactions](https://github.com/mouniakshya/Veeva-Systems/tree/master/1169-invalid-transactions) |
 | [1200-minimum-absolute-difference](https://github.com/mouniakshya/Veeva-Systems/tree/master/1200-minimum-absolute-difference) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mouniakshya/Veeva-Systems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0977-squares-of-a-sorted-array) |
 | [1169-invalid-transactions](https://github.com/mouniakshya/Veeva-Systems/tree/master/1169-invalid-transactions) |
 | [1200-minimum-absolute-difference](https://github.com/mouniakshya/Veeva-Systems/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1331-rank-transform-of-an-array) |

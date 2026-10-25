@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mouniakshya/Veeva-Systems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mouniakshya/Veeva-Systems/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mouniakshya/Veeva-Systems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/mouniakshya/Veeva-Systems/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0434-number-of-segments-in-a-string) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/mouniakshya/Veeva-Systems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/mouniakshya/Veeva-Systems/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mouniakshya/Veeva-Systems/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/mouniakshya/Veeva-Systems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mouniakshya/Veeva-Systems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mouniakshya/Veeva-Systems/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/mouniakshya/Veeva-Systems/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0678-valid-parenthesis-string) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mouniakshya/Veeva-Systems/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/mouniakshya/Veeva-Systems/tree/master/2104-sum-of-subarray-ranges) |

@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/mouniakshya/Veeva-Systems/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/mouniakshya/Veeva-Systems/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/mouniakshya/Veeva-Systems/tree/master/1089-duplicate-zeros) |
 | [1169-invalid-transactions](https://github.com/mouniakshya/Veeva-Systems/tree/master/1169-invalid-transactions) |
 | [1200-minimum-absolute-difference](https://github.com/mouniakshya/Veeva-Systems/tree/master/1200-minimum-absolute-difference) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/mouniakshya/Veeva-Systems/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/mouniakshya/Veeva-Systems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mouniakshya/Veeva-Systems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/2974-minimum-number-game) |

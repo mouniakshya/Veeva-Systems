@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/mouniakshya/Veeva-Systems/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mouniakshya/Veeva-Systems/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/mouniakshya/Veeva-Systems/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0930-binary-subarrays-with-sum) |
 | [1169-invalid-transactions](https://github.com/mouniakshya/Veeva-Systems/tree/master/1169-invalid-transactions) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mouniakshya/Veeva-Systems/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0682-baseball-game) |

@@ -4,7 +4,7 @@ class Solution {
         for(int i=0;i<stones.length;i++){
             pq.add(stones[i]);
         }
-       while(pq.size()>=2){
+       while(pq.size()>1){
         int a=pq.poll();
         int b=pq.poll();
         int c=Math.abs(a-b);
@@ -13,7 +13,7 @@ class Solution {
        }
        if (pq.size() == 1)
             return pq.peek();
-        else
+       else
             return 0;
     }
 }
